@@ -25,7 +25,7 @@
   
   .ma5slider .slide {
     width: 100%;
-	max-height:100vh;
+	height:100vh;
     position: absolute;
     top: 0;
     left: 0;
@@ -42,13 +42,13 @@
       display: block;
       outline: none;
       width: 100%;
-      max-height:100vh; }
+      height:100vh; }
   /* line 49, /var/www/ma-5/ma5slider/app/scss/components/_ma5slider.scss */
   .ma5slider > img.slide {
     display: block;
     outline: none;
     width: 100%;
-    max-height:100vh; }
+    height:100vh; }
   /* line 56, /var/www/ma-5/ma5slider/app/scss/components/_ma5slider.scss */
   .ma5slider .navs-wrapper {
     position: relative;
@@ -57,7 +57,7 @@
   .ma5slider .canvas {
     width: 100%;
     max-width: 100%;
-    max-height:100vh;
+    height:100vh;
     display: block; }
   /* line 66, /var/www/ma-5/ma5slider/app/scss/components/_ma5slider.scss */
   .ma5slider .slide--prev {
