@@ -116,6 +116,7 @@
 .slide-area {
   overflow: hidden;
   width: 100%;
+  height:100vh;
   position: relative; }
 
 /* line 4, /var/www/ma-5/ma5slider/app/scss/components/_ma5slider__nojs.scss */
